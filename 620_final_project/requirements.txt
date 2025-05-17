@@ -1,0 +1,10 @@
+networkx
+yelpapi
+googlemaps
+python-dotenv
+vaderSentiment
+jupyter
+pandas
+numpy
+matplotlib
+seaborn 
